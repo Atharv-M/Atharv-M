@@ -10,11 +10,9 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharv-M&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Atharv-M&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Atharv-M&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-M&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Atharv-M&layout=compact)
 
 
 ### ✍️ Random Dev Quote
